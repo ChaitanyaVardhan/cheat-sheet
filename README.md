@@ -28,4 +28,4 @@
 #### Override in other templates
 ```python
 {% block stupid_tiger %}{% endblock %} #override
-```python
+```
