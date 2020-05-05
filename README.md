@@ -1,6 +1,6 @@
-#### Jinja
+## Jinja
 
-## Control flow statements
+#### Control flow statements
 
 ```python
 {% foobar %} #control statement
@@ -20,12 +20,12 @@
 {% endif %}
 ```
 
-## Expression
+#### Expression
 ```python
 {{ crazy_cow }} 
 ```
 
-## Override in other templates
+#### Override in other templates
 ```python
 {% block stupid_tiger %}{% endblock %} #override
 ```python
